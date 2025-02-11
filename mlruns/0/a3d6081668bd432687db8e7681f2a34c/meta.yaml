@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a3d6081668bd432687db8e7681f2a34c/artifacts
+end_time: 1739189501819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3d6081668bd432687db8e7681f2a34c
+run_name: dazzling-penguin-925
+run_uuid: a3d6081668bd432687db8e7681f2a34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739189501216
+status: 3
+tags: []
+user_id: Lenovo

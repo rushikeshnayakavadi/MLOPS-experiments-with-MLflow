@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/236590496491301467/ab3052ebc72b4a4aadda2d4c3c32efc5/artifacts
+end_time: 1739194731513
+entry_point_name: ''
+experiment_id: '236590496491301467'
+lifecycle_stage: active
+run_id: ab3052ebc72b4a4aadda2d4c3c32efc5
+run_name: vaunted-shark-410
+run_uuid: ab3052ebc72b4a4aadda2d4c3c32efc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739194729745
+status: 3
+tags: []
+user_id: rushikeshnayakavadi
